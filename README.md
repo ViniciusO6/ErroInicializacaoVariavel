@@ -1,1 +1,1 @@
-# Solu-oDeErroPHP
+# SolucaoDeErroPHP
